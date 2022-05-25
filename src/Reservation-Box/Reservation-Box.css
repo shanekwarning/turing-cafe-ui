@@ -1,0 +1,13 @@
+.box-for-reservations {
+  border-color: red;
+  border-style: solid;
+  box-sizing: 1px;
+
+height: 100vh;
+width: 140vh;
+display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+
+
+}

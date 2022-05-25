@@ -1,0 +1,11 @@
+.resy-card {
+  border-color: red;
+  border-style: solid;
+  box-sizing: 1px;
+
+  background-color: white;
+
+  height: 25vh;
+  width: 25vh;
+  
+}
